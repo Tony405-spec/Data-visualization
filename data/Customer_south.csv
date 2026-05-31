@@ -1,0 +1,135 @@
+﻿Customer ID,Customer Name,Segment,Age,Country,City,State,Postal Code,Region
+CG-12520,Claire Gute,Consumer,67,United States,Henderson,Kentucky,42420,South
+SO-20335,Sean O'Donnell,Consumer,65,United States,Fort Lauderdale,Florida,33311,South
+AA-10480,Andrew Allen,Consumer,50,United States,Concord,North Carolina,28027,South
+ES-14080,Erin Smith,Corporate,20,United States,Melbourne,Florida,32935,South
+KD-16270,Karen Daniels,Consumer,59,United States,Springfield,Virginia,22153,South
+JE-15745,Joel Eaton,Consumer,25,United States,Memphis,Tennessee,38109,South
+SC-20770,Stewart Carmichael,Corporate,18,United States,Decatur,Alabama,35601,South
+JC-16105,Julie Creighton,Corporate,56,United States,Durham,North Carolina,27707,South
+JM-15250,Janet Martin,Consumer,62,United States,Charlotte,North Carolina,28205,South
+GG-14650,Greg Guthrie,Corporate,51,United States,Bristol,Tennessee,37620,South
+RM-19675,Robert Marley,Home Office,57,United States,Monroe,Louisiana,71203,South
+HK-14890,Heather Kirkland,Corporate,27,United States,Franklin,Tennessee,37064,South
+VD-21670,Valerie Dominguez,Consumer,69,United States,Columbia,Tennessee,38401,South
+EA-14035,Erin Ashbrook,Corporate,61,United States,Charlotte,North Carolina,28205,South
+CB-12535,Claudia Bergmann,Corporate,63,United States,Chapel Hill,North Carolina,27514,South
+AH-10195,Alan Haines,Corporate,67,United States,Tamarac,Florida,33319,South
+SH-20395,Shahid Hopkins,Consumer,66,United States,Arlington,Virginia,22204,South
+AG-10525,Andy Gerbode,Corporate,69,United States,Saint Petersburg,Florida,33710,South
+DJ-13510,Don Jones,Corporate,67,United States,Murfreesboro,Tennessee,37130,South
+VB-21745,Victoria Brennan,Corporate,27,United States,Columbus,Georgia,31907,South
+DO-13435,Denny Ordway,Consumer,25,United States,Pembroke Pines,Florida,33024,South
+LF-17185,Luke Foster,Consumer,36,United States,Miami,Florida,33180,South
+NF-18385,Natalie Fritzler,Consumer,23,United States,Jackson,Mississippi,39212,South
+RB-19795,Ross Baird,Home Office,60,United States,Gastonia,North Carolina,28052,South
+MK-18160,Mike Kennedy,Consumer,22,United States,Jacksonville,Florida,32216,South
+RO-19780,Rose O'Brian,Consumer,25,United States,Memphis,Tennessee,38109,South
+MD-17350,Maribeth Dona,Consumer,31,United States,Fayetteville,Arkansas,72701,South
+CM-12385,Christopher Martinez,Consumer,19,United States,Atlanta,Georgia,30318,South
+PH-18790,Patricia Hirasaki,Home Office,55,United States,Lakeland,Florida,33801,South
+RL-19615,Rob Lucas,Consumer,53,United States,Montgomery,Alabama,36116,South
+DK-12985,Darren Koutras,Consumer,58,United States,Henderson,Kentucky,42420,South
+AJ-10945,Ashley Jarboe,Consumer,62,United States,Wilmington,North Carolina,28403,South
+CA-12775,Cynthia Arntzen,Consumer,57,United States,Tampa,Florida,33614,South
+BD-11725,Bruce Degenhardt,Consumer,36,United States,Richmond,Kentucky,40475,South
+AS-10240,Alan Shonely,Consumer,68,United States,Tampa,Florida,33614,South
+DJ-13420,Denny Joy,Corporate,21,United States,Warner Robins,Georgia,31088,South
+GT-14635,Grant Thornton,Corporate,19,United States,Burlington,North Carolina,27217,South
+MC-17845,Michael Chen,Consumer,50,United States,Jackson,Mississippi,39212,South
+NP-18325,Naresj Patel,Consumer,70,United States,Waynesboro,Virginia,22980,South
+BN-11470,Brad Norvell,Corporate,20,United States,Cary,North Carolina,27511,South
+AP-10915,Arthur Prichep,Consumer,61,United States,Palm Coast,Florida,32137,South
+SC-20695,Steve Chapman,Corporate,46,United States,Hialeah,Florida,33012,South
+CS-12250,Chris Selesnick,Corporate,59,United States,Bossier City,Louisiana,71111,South
+AJ-10795,Anthony Johnson,Corporate,27,United States,Saint Petersburg,Florida,33710,South
+JK-15730,Joe Kamberova,Consumer,69,United States,Asheville,North Carolina,28806,South
+MC-18130,Mike Caudle,Corporate,59,United States,Monroe,Louisiana,71203,South
+JL-15175,James Lanier,Home Office,25,United States,Columbia,Tennessee,38401,South
+AF-10885,Art Foster,Consumer,40,United States,Louisville,Kentucky,40214,South
+AJ-10780,Anthony Jacobs,Corporate,47,United States,Springfield,Virginia,22153,South
+JJ-15760,Joel Jenkins,Home Office,59,United States,Springfield,Virginia,22153,South
+SW-20275,Scott Williamson,Consumer,35,United States,Jackson,Mississippi,39212,South
+TB-21190,Thomas Brumley,Home Office,29,United States,Fayetteville,Arkansas,72701,South
+RW-19690,Robert Waldorf,Consumer,29,United States,Wilmington,North Carolina,28403,South
+SL-20155,Sara Luxemburg,Home Office,55,United States,Jacksonville,Florida,32216,South
+MW-18235,Mitch Willingham,Corporate,30,United States,Virginia Beach,Virginia,23464,South
+RD-19585,Rob Dowd,Consumer,60,United States,Henderson,Kentucky,42420,South
+JH-15430,Jennifer Halladay,Consumer,48,United States,Burlington,North Carolina,27217,South
+PS-19045,Penelope Sewall,Home Office,23,United States,Charlotte,North Carolina,28205,South
+CS-12355,Christine Sundaresam,Consumer,63,United States,Roswell,Georgia,30076,South
+LH-16750,Larry Hughes,Consumer,37,United States,Charlotte,North Carolina,28205,South
+EJ-14155,Eva Jacobs,Consumer,22,United States,Gulfport,Mississippi,39503,South
+JR-15700,Jocasta Rupert,Consumer,69,United States,Jacksonville,Florida,32216,South
+SM-20950,Suzanne McNair,Corporate,54,United States,Greenville,North Carolina,27834,South
+DC-12850,Dan Campbell,Consumer,50,United States,Florence,Alabama,35630,South
+TC-21535,Tracy Collins,Home Office,57,United States,Arlington,Virginia,22204,South
+CS-12460,Chuck Sachs,Consumer,44,United States,Columbus,Georgia,31907,South
+LW-16825,Laurel Workman,Corporate,64,United States,Deltona,Florida,32725,South
+LP-17095,Liz Preis,Consumer,58,United States,Murray,Kentucky,42071,South
+EB-14170,Evan Bailliet,Consumer,64,United States,Wilmington,North Carolina,28403,South
+AS-10045,Aaron Smayling,Corporate,42,United States,Jacksonville,North Carolina,28540,South
+ND-18370,Natalie DeCherney,Consumer,41,United States,Louisville,Kentucky,40214,South
+PP-18955,Paul Prost,Home Office,44,United States,Smyrna,Georgia,30080,South
+YS-21880,Yana Sorensen,Corporate,31,United States,Burlington,North Carolina,27217,South
+KM-16375,Katherine Murray,Home Office,70,United States,Salem,Virginia,24153,South
+PW-19030,Pauline Webber,Corporate,47,United States,Richmond,Kentucky,40475,South
+MC-17425,Mark Cousins,Corporate,50,United States,Mobile,Alabama,36608,South
+ME-17320,Maria Etezadi,Home Office,48,United States,Columbus,Georgia,31907,South
+CS-12505,Cindy Stewart,Consumer,41,United States,Thomasville,North Carolina,27360,South
+BO-11425,Bobby Odegard,Consumer,63,United States,Richmond,Kentucky,40475,South
+VG-21805,Vivek Grady,Corporate,54,United States,Virginia Beach,Virginia,23464,South
+MC-17275,Marc Crier,Consumer,24,United States,Lafayette,Louisiana,70506,South
+SW-20455,Shaun Weien,Consumer,21,United States,Suffolk,Virginia,23434,South
+ML-17755,Max Ludwig,Home Office,22,United States,Suffolk,Virginia,23434,South
+CC-12685,Craig Carroll,Consumer,59,United States,Greensboro,North Carolina,27405,South
+CH-12070,Cathy Hwang,Home Office,36,United States,Raleigh,North Carolina,27604,South
+ND-18460,Neil Ducich,Corporate,33,United States,Macon,Georgia,31204,South
+BF-10975,Barbara Fisher,Corporate,47,United States,Charlotte,North Carolina,28205,South
+KH-16330,Katharine Harms,Corporate,66,United States,Bowling Green,Kentucky,42104,South
+AS-10090,Adam Shillingsburg,Consumer,46,United States,Charlottesville,Virginia,22901,South
+EH-13990,Erica Hackney,Consumer,22,United States,Roswell,Georgia,30076,South
+AM-10705,Anne McFarland,Consumer,28,United States,Auburn,Alabama,36830,South
+BW-11200,Ben Wallace,Consumer,31,United States,Boynton Beach,Florida,33437,South
+RH-19600,Rob Haberlin,Consumer,21,United States,Huntsville,Alabama,35810,South
+DB-13555,Dorothy Badders,Corporate,58,United States,Jacksonville,Florida,32216,South
+MV-17485,Mark Van Huff,Consumer,54,United States,Arlington,Virginia,22204,South
+SM-20320,Sean Miller,Home Office,62,United States,Monroe,North Carolina,28110,South
+PJ-18835,Patrick Jones,Corporate,19,United States,Murfreesboro,Tennessee,37130,South
+KW-16570,Kelly Williams,Consumer,50,United States,Clarksville,Tennessee,37042,South
+CM-11935,Carlos Meador,Consumer,56,United States,Fayetteville,North Carolina,28314,South
+DB-12910,Daniel Byrd,Home Office,38,United States,Tampa,Florida,33614,South
+BD-11635,Brian Derr,Consumer,42,United States,Bowling Green,Kentucky,42104,South
+KN-16450,Kean Nguyen,Corporate,47,United States,Jacksonville,Florida,32216,South
+SC-20680,Steve Carroll,Home Office,31,United States,Columbus,Georgia,31907,South
+RH-19555,Ritsa Hightower,Consumer,61,United States,Tallahassee,Florida,32303,South
+JP-16135,Julie Prescott,Home Office,57,United States,Columbus,Georgia,31907,South
+CA-11965,Carol Adams,Corporate,19,United States,Hoover,Alabama,35244,South
+DM-13345,Denise Monton,Corporate,46,United States,Roswell,Georgia,30076,South
+CC-12370,Christopher Conant,Consumer,38,United States,Fayetteville,North Carolina,28314,South
+HG-14845,Harry Greene,Consumer,63,United States,Lake Charles,Louisiana,70601,South
+BP-11155,Becky Pak,Consumer,46,United States,Columbus,Georgia,31907,South
+JB-16045,Julia Barnett,Home Office,65,United States,Columbus,Georgia,31907,South
+TC-21475,Tony Chapman,Home Office,64,United States,Columbus,Georgia,31907,South
+EH-14185,Evan Henry,Consumer,31,United States,Decatur,Alabama,35601,South
+TS-21505,Tony Sayre,Consumer,32,United States,Columbia,Tennessee,38401,South
+DH-13075,Dave Hallsten,Corporate,58,United States,Richmond,Kentucky,40475,South
+HJ-14875,Heather Jas,Home Office,32,United States,Jacksonville,Florida,32216,South
+MH-17455,Mark Hamilton,Consumer,49,United States,Jacksonville,North Carolina,28540,South
+SU-20665,Stephanie Ulpright,Home Office,30,United States,Jackson,Mississippi,39212,South
+NC-18415,Nathan Cano,Consumer,29,United States,Jacksonville,North Carolina,28540,South
+KE-16420,Katrina Edelman,Corporate,53,United States,Bristol,Tennessee,37620,South
+CS-12175,Charles Sheldon,Corporate,67,United States,Columbia,Tennessee,38401,South
+KM-16660,Khloe Miller,Consumer,57,United States,Roswell,Georgia,30076,South
+SH-20635,Stefanie Holloman,Corporate,57,United States,Jackson,Tennessee,38301,South
+RD-19720,Roger Demir,Consumer,30,United States,Daytona Beach,Florida,32114,South
+CS-11860,Cari Schnelling,Consumer,69,United States,Jacksonville,North Carolina,28540,South
+JM-15580,Jill Matthias,Consumer,37,United States,Monroe,North Carolina,28110,South
+BG-11035,Barry Gonzalez,Consumer,57,United States,Monroe,Louisiana,71203,South
+BW-11065,Barry Weirich,Consumer,30,United States,Raleigh,North Carolina,27604,South
+MG-18205,Mitch Gastineau,Corporate,55,United States,Jacksonville,Florida,32216,South
+EM-14200,Evan Minnotte,Home Office,52,United States,Virginia Beach,Virginia,23464,South
+SS-20515,Shirley Schmidt,Home Office,31,United States,Louisville,Kentucky,40214,South
+AR-10570,Anemone Ratner,Consumer,36,United States,Columbus,Georgia,31907,South
+FW-14395,Fred Wasserman,Corporate,41,United States,Huntsville,Alabama,35810,South
+LC-16960,Lindsay Castell,Home Office,57,United States,Arlington,Virginia,22204,South
